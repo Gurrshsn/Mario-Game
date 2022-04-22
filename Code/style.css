@@ -1,0 +1,21 @@
+.heading{
+      width: 100%;
+      text-align: left;
+      padding-top: 15px;
+      padding-bottom: 15px;
+}
+
+.heading button{
+    float: right;
+    display: inline;
+}
+
+.heading h1{
+    display: inline;
+}
+
+
+h4{
+    line-height: -100;
+    margin: bottom;
+}
